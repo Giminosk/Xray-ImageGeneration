@@ -1,2 +1,0 @@
-models/generator/ filter=lfs diff=lfs merge=lfs -text
-models/discriminator/ filter=lfs diff=lfs merge=lfs -text
