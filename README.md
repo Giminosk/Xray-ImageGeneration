@@ -13,6 +13,7 @@ A few generated images of final model:
 <img src="/images/result/result0.png" width="300" height="300"/>
 <img src="/images/result/result3.png" width="300" height="300"/>
 <img src="/images/result/result6.png" width="300" height="300"/>  
+<img src="/images/result/result8.png" width="300" height="300"/>  
 
 ## Conclusions
 The resulting images can easily be counted as a chest x-ray, but they are easy to distinguish in comparison with the real ones. The generated images have too much noise and are too blurry, they do not have very clear structures. However, the result is acceptable. It's hard to say what needs to be improved, a more complex generator or more training time (also use a larger dataset than 300 images). Most likely all together.  
