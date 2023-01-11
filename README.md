@@ -12,7 +12,7 @@ The gif showing each 100s epoch result:
 A few generated images of final model:  
 <img src="/images/result/result0.png" width="300" height="300"/>
 <img src="/images/result/result3.png" width="300" height="300"/>
-<img src="/images/result/result6.png" width="300" height="300"/>  
+<img src="/images/result/result6.png" width="300" height="300"/>
 <img src="/images/result/result8.png" width="300" height="300"/>  
 
 ## Conclusions
